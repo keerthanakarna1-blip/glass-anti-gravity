@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Our Products - Sliding, Pivot, and Automatic Anti-Gravity Doors.">
+    <title>Products | Glass Anti-Gravity Doors</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <header>
+        <div class="container">
+            <nav>
+                <a href="index.html" class="logo">GLASS <span>GRAVITY</span></a>
+                <div class="menu-toggle">☰</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="products.html" class="active">Products</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="testimonials.html">Testimonials</a></li>
+                    <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div style="padding-top: 100px;"></div>
+    <section class="section">
+        <div class="container">
+            <h1 style="text-align: center; margin-bottom: 50px;">Our Collection</h1>
+            <div class="grid-container">
+                <!-- Product 1 -->
+                <div class="card">
+                    <div class="card-image" style="background: url('images/hero_bg.png') center/cover;"></div>
+                    <div class="card-content">
+                        <h3>The Phantom Slider</h3>
+                        <p style="margin-bottom: 20px; color: #ccc;">Minimalist sliding glass door with zero visible
+                            hardware. Perfect for seamless indoor-outdoor living.</p>
+                        <a href="contact.html" class="btn btn-outline">Enquire</a>
+                    </div>
+                </div>
+                <!-- Product 2 -->
+                <div class="card">
+                    <div class="card-image" style="background: #1a1a1a;"></div> <!-- Placeholder -->
+                    <div class="card-content">
+                        <h3>The Zenith Pivot</h3>
+                        <p style="margin-bottom: 20px; color: #ccc;">A grand entrance statement. This massive pivot door
+                            floats effortlessly on a magnetic field.</p>
+                        <a href="contact.html" class="btn btn-outline">Enquire</a>
+                    </div>
+                </div>
+                <!-- Product 3 -->
+                <div class="card">
+                    <div class="card-image" style="background: #2a2a2a;"></div> <!-- Placeholder -->
+                    <div class="card-content">
+                        <h3>The Eclipse Automach</h3>
+                        <p style="margin-bottom: 20px; color: #ccc;">Fully automatic, sensor-driven anti-gravity door.
+                            Opens before you even reach for it.</p>
+                        <a href="contact.html" class="btn btn-outline">Enquire</a>
+                    </div>
+                </div>
+                <!-- Product 4 -->
+                <div class="card">
+                    <div class="card-image" style="background: #111;"></div> <!-- Placeholder -->
+                    <div class="card-content">
+                        <h3>Privacy Smart Glass</h3>
+                        <p style="margin-bottom: 20px; color: #ccc;">Switch from clear to opaque instantly with our
+                            electrochromic glass options.</p>
+                        <a href="contact.html" class="btn btn-outline">Enquire</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <h4>Glass Anti-Gravity Doors</h4>
+                    <p>The standard for luxury and innovation.</p>
+                </div>
+                <div>
+                    <h4>Quick Links</h4>
+                    <ul style="opacity: 0.8;">
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Contact</h4>
+                    <p>Email: <a href="mailto:keerthanakarna3@gmail.com">keerthanakarna3@gmail.com</a></p>
+                    <p>Phone: <a href="tel:7299749405">7299749405</a></p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Glass Anti-Gravity Doors. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Glass Anti-Gravity Doors - The future of luxury home and office entrances. Levitation technology meets premium glass design.">
+    <title>Glass Anti-Gravity Doors | Future of Entrances</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <header>
+        <div class="container">
+            <nav>
+                <a href="index.html" class="logo">GLASS <span>GRAVITY</span></a>
+                <div class="menu-toggle">☰</div>
+                <ul class="nav-links">
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="testimonials.html">Testimonials</a></li>
+                    <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container hero-content">
+            <h1>Defy Gravity. <br>Elegance in Motion.</h1>
+            <p>Experience the frictionless future of architectural glass doors. Levitating technology for ultra-smooth operation.</p>
+            <a href="products.html" class="btn">Explore Products</a>
+            <a href="contact.html" class="btn btn-outline" style="margin-left: 10px;">Get a Quote</a>
+        </div>
+    </section>
+    <!-- Intro / Features Section -->
+    <section class="section">
+        <div class="container">
+            <div style="text-align: center; max-width: 800px; margin: 0 auto 50px;">
+                <h2>Why Anti-Gravity?</h2>
+                <p>Our magnetic levitation technology eliminates friction, allowing massive glass panels to glide with the touch of a finger.</p>
+            </div>
+            
+            <div class="grid-container">
+                <div class="card" style="text-align: center; padding: 40px;">
+                    <div style="font-size: 3rem; color: var(--primary-color); margin-bottom: 20px;">01</div>
+                    <h3>Zero Friction</h3>
+                    <p>Maglev technology means no rollers, no tracks, and absolute silence.</p>
+                </div>
+                <div class="card" style="text-align: center; padding: 40px;">
+                    <div style="font-size: 3rem; color: var(--primary-color); margin-bottom: 20px;">02</div>
+                    <h3>Smart Integration</h3>
+                    <p>Voice control, biometric access, and seamless home automation connection.</p>
+                </div>
+                <div class="card" style="text-align: center; padding: 40px;">
+                    <div style="font-size: 3rem; color: var(--primary-color); margin-bottom: 20px;">03</div>
+                    <h3>Custom Design</h3>
+                    <p>Bespoke glass finishes, sizes, and frames to match your luxurious space.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- CTA Section -->
+    <section class="section" style="background: linear-gradient(to right, #000, #111);">
+        <div class="container" style="text-align: center;">
+            <h2>Ready to Transform Your Space?</h2>
+            <p style="margin-bottom: 30px;">Contact us today for a consultation.</p>
+            <a href="tel:7299749405" class="btn">Call Now: 7299749405</a>
+        </div>
+    </section>
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <h4>Glass Anti-Gravity Doors</h4>
+                    <p>The standard for luxury and innovation.</p>
+                </div>
+                <div>
+                    <h4>Quick Links</h4>
+                    <ul style="opacity: 0.8;">
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Contact</h4>
+                    <p>Email: <a href="mailto:keerthanakarna3@gmail.com">keerthanakarna3@gmail.com</a></p>
+                    <p>Phone: <a href="tel:7299749405">7299749405</a></p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Glass Anti-Gravity Doors. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

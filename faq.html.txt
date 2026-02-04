@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="FAQ - Frequently Asked Questions about Magnetic Levitation Doors.">
+    <title>FAQ | Glass Anti-Gravity Doors</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <header>
+        <div class="container">
+            <nav>
+                <a href="index.html" class="logo">GLASS <span>GRAVITY</span></a>
+                <div class="menu-toggle">☰</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="testimonials.html">Testimonials</a></li>
+                    <li><a href="faq.html" class="active">FAQ</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div style="padding-top: 100px;"></div>
+    <section class="section">
+        <div class="container" style="max-width: 800px;">
+            <h1 style="text-align: center; margin-bottom: 50px;">Frequently Asked Questions</h1>
+            <div class="faq-item">
+                <div class="faq-question">How does the anti-gravity technology work? <span>+</span></div>
+                <div class="faq-answer">
+                    <p>Our doors utilize permanent rare-earth magnets arranged in a Halbach array to create a powerful
+                        magnetic field. This allows the door panel to levitate approximately 3mm off the track,
+                        eliminating all friction and weight.</p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Is it safe? What if the power goes out? <span>+</span></div>
+                <div class="faq-answer">
+                    <p>It is completely safe. The magnetic field is permanent and does not require electricity to
+                        maintain levitation. If you choose an automatic model, manual operation is effortless in case of
+                        power loss due to the lack of friction.</p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Can I customize the glass? <span>+</span></div>
+                <div class="faq-answer">
+                    <p>Absolutely. We offer a wide range of glass options, including ultra-clear, frosted, tinted, and
+                        smart privacy glass that switches opacity on demand.</p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">What is the warranty period? <span>+</span></div>
+                <div class="faq-answer">
+                    <p>We offer a lifetime warranty on the magnetic components and a 10-year warranty on the glass and
+                        frame finish.</p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">How do I order? <span>+</span></div>
+                <div class="faq-answer">
+                    <p>You can contact us directly via our website or phone. We will schedule a consultation to measure
+                        your space and discuss your design preferences.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <h4>Glass Anti-Gravity Doors</h4>
+                    <p>The standard for luxury and innovation.</p>
+                </div>
+                <div>
+                    <h4>Quick Links</h4>
+                    <ul style="opacity: 0.8;">
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Contact</h4>
+                    <p>Email: <a href="mailto:keerthanakarna3@gmail.com">keerthanakarna3@gmail.com</a></p>
+                    <p>Phone: <a href="tel:7299749405">7299749405</a></p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Glass Anti-Gravity Doors. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
